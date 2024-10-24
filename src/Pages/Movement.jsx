@@ -6,7 +6,7 @@ function Movement() {
 
   useEffect(() => {
     const fetchData = async () => {
-      const response = await fetch('https://api.github.com/users');
+      const response = await fetch('https://dummyjson.com/post');
       const data = await response.json();
       setUsers(data); // Set users data.
     };
