@@ -6,6 +6,7 @@ import { Link } from 'react-router-dom'
 function Qualification() {
   return (
     <div>
+      <h1>Welcome</h1>
       <div className='bg-blue-600 font-semibold p-4 flex'>
         <div className='text-left'>
           <h1>Portfolio</h1>

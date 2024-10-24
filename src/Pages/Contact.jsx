@@ -5,6 +5,7 @@ import { FaBeer } from 'react-icons/fa'
 function Contact() {
   return (    
     <>
+    <h1>Welcome</h1>
       <div className='bg-blue-600 font-semibold p-4 flex'>
         <div className='text-left'>
           <h1>Portfolio</h1>
